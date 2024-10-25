@@ -1,0 +1,8 @@
+flask
+sentence-transformers
+numpy
+torch
+requests
+beautifulsoup4
+flask-cors
+transformers
