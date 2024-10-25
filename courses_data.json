@@ -1,0 +1,282 @@
+[
+    {
+        "title": "GenAI Applied to Quantitative Finance: For Control Implementation",
+        "link": "https://courses.analyticsvidhya.com/courses/genai-applied-to-quantitative-finance-for-control-implementation",
+        "content": "This course explores the application of Generative AI in quantitative finance, focusing on building sustainable trading algorithms through keyword extraction, sentiment analysis, and time-series forecasting. Learn to predict commodity prices, such as gold, by integrating data from financial news sources, leveraging sentiment analysis, and optimizing models for robust trading signals."
+    },
+    {
+        "title": "Navigating LLM Tradeoffs: Techniques for Speed, Cost, Scale & Accuracy",
+        "link": "https://courses.analyticsvidhya.com/courses/navigating-llm-tradeoffs-techniques-for-speed-cost-scale-and-accuracy",
+        "content": "This course provides a concise guide to optimizing Large Language Models (LLMs) by navigating tradeoffs in speed, cost, scale, and accuracy. Learn practical techniques like LoRA, model quantization, and parameter-efficient fine-tuning to improve performance while reducing costs. You'll explore various deployment strategies and understand how to evaluate LLMs using industry-standard benchmarks, making this course ideal for anyone seeking efficient, scalable AI solutions."
+    },
+    {
+        "title": "Creating Problem-Solving Agents using GenAI for Action Composition",
+        "link": "https://courses.analyticsvidhya.com/courses/creating-problem-solving-agents-using-genai-for-action-composition",
+        "content": "This introductory course provides a concise overview of Agentic AI systems, covering their evolution, current state, and practical applications. You will explore key topics including the history of Agentic AI systems, the role of agents today, multi-agent systems, and practical solutions for implementing them. Perfect for those seeking a foundational understanding of intelligent Agentic AI systems in action."
+    },
+    {
+        "title": "Improving Real World RAG Systems: Key Challenges & Practical Solutions",
+        "link": "https://courses.analyticsvidhya.com/courses/improving-real-world-rag-systems-key-challenges",
+        "content": "This course explores the key challenges in building real-world Retrieval-Augmented Generation (RAG) systems and provides practical solutions. Topics include improving data retrieval, dealing with hallucinations, context selection, and optimizing system performance using advanced prompting, retrieval strategies, and evaluation techniques. Through hands-on demos, you will gain insights into better chunking, embedding models, and agentic RAG systems for more robust, real-world applications."
+    },
+    {
+        "title": "Framework to Choose the Right LLM for your Business",
+        "link": "https://courses.analyticsvidhya.com/courses/choosing-the-right-LLM-for-your-business",
+        "content": "This course will guide you through the process of selecting the most suitable Large Language Model (LLM) for various business needs. By examining factors such as accuracy, cost, scalability, and integration, you will understand how different LLMs perform in specific scenarios, from customer support to healthcare and strategy development. The course emphasizes practical decision-making with real-world case studies, helping businesses navigate the rapidly evolving LLM landscape effectively."
+    },
+    {
+        "title": "Generative AI - A Way of Life - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/genai-a-way-of-life",
+        "content": "This course is a transformative journey tailored for beginners and delves into AI-powered text and image generation using leading tools like ChatGPT, Microsoft Copilot, and DALL\u00b7E3. Learn practical applications across industries, ethical considerations, and best practices. Whether you're a content creator, business innovator, or AI enthusiast, gain the expertise to harness Generative AI's full potential and drive innovation in your field."
+    },
+    {
+        "title": "Building LLM Applications using Prompt Engineering - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/building-llm-applications-using-prompt-engineering-free",
+        "content": "This course will provide you with a hands-on understanding of building LLM applications and mastering prompt engineering techniques. By the end of the course, you will be proficient in implementing and fine-tuning these techniques to enhance generative AI model performance. You'll learn to apply various prompting methods and build chatbots on enterprise data, equipping you with the skills to improve conversational AI systems in real-world projects. Who Should Enroll: Professionals: Individuals looking to deepen their knowledge and apply advanced LLM and prompt engineering techniques to solve complex problems across various domains. Aspiring Students: Individuals looking to deepen their knowledge and apply advanced LLM and prompt engineering techniques to solve complex problems across various domains."
+    },
+    {
+        "title": "Building Your First Computer Vision Model - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/building-your-first-computer-vision-model",
+        "content": "This course will help you gain a deep understanding of Computer Vision and build advanced CV models using the PyTorch framework. With a carefully curated list of resources and exercises, this course is your guide to becoming a Computer Vision expert. Master the techniques to build convolutional neural networks, and classify images. Who Should Enroll: Professionals: Individuals looking to expand their skill set and leverage CV across different industries. Aspiring Students: For those setting out on their journey to master image data analysis and leave a mark in the tech world."
+    },
+    {
+        "title": "Bagging and Boosting ML Algorithms - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/bagging-boosting-ML-Algorithms",
+        "content": "This course will provide you with a hands-on understanding of Bagging and Boosting techniques in machine learning. By the end of the course, you will be proficient in implementing and tuning these ensemble methods to enhance model performance. You'll learn to apply algorithms like Random Forest, AdaBoost, and Gradient Boosting to a real-world dataset, equipping you with the skills to improve predictive accuracy and robustness in your projects. Who Should Enroll: Professionals: Individuals looking to deepen their knowledge and apply advanced machine learning techniques like Bagging and Boosting to solve complex problems across various domains Aspiring Students: Individuals looking to deepen their knowledge and apply advanced ML techniques to bring value to businesses"
+    },
+    {
+        "title": "MidJourney: From Inspiration to Implementation - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/midjourney_from_inspiration_to_implementation",
+        "content": "This course will provide you with a practical understanding of MidJourney tools. By the end of the course, you will be able to utilize MidJourney effectively and explore alternative tools for your creative projects. You'll learn how to draw inspiration, use MidJourney's features, and understand its applications through engaging lessons. Who Should Enroll: Creative Professionals: Individuals looking to enhance their creativity and apply MidJourney tools to various artistic and visual projects. Aspiring Creatives: Those beginning their journey into visual storytelling and digital art, seeking to learn the fundamentals of MidJourney and its alternatives."
+    },
+    {
+        "title": "Understanding Linear Regression - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/free-understanding-linear-regression",
+        "content": "This free course will help you understand the fundamentals of linear regression in a straightforward manner. By the end of this course, you will be able to build predictive models using linear regression techniques. With a carefully curated list of resources and exercises, this course serves as your comprehensive guide to mastering linear regression."
+    },
+    {
+        "title": "The Working of Neural Networks - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/The%20Working%20of%20Neural%20Networks",
+        "content": "This free course will help you understand the end-to-end working of neural networks in a simple manner. By the end of this course, you will be able to build advanced Deep Learning models using the PyTorch framework. With a carefully curated list of resources and exercises, this course serves as your comprehensive guide to mastering deep learning. It is recommended that you complete the advanced Machine Learning course before taking up this course."
+    },
+    {
+        "title": "The A to Z of Unsupervised ML - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/free-unsupervised-ml-guide",
+        "content": "Unsupervised machine learning helps uncover hidden patterns and structures in data without labeled examples. It is essential for exploratory data analysis, reducing dimensionality, and discovering intrinsic relationships within datasets. Mastering unsupervised techniques enhances data preprocessing and drives insights in complex datasets where labels are scarce or unavailable."
+    },
+    {
+        "title": "Building Your first RAG System using LlamaIndex - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/building-first-rag-systems-using-llamaindex",
+        "content": "This course will guide you through building your first Retrieval-Augmented Generation (RAG) system using LlamaIndex. You will start with data ingestion by loading a file into the system, followed by indexing the data for efficient retrieval. Next, you will set up retrieval configurations and use a response synthesizer to combine data into a coherent response. Finally, you will employ a query engine to generate responses. By the end of this course, you will have a solid understanding of these processes and be able to build an RAG system using LlamaIndex code effectively."
+    },
+    {
+        "title": "Data Preprocessing on a Real-World Problem Statement - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/data-preprocessing",
+        "content": "This course will help you get a practical understanding of Data Preprocessing. After this course, you can work on any data and prepare it for modelling. With a carefully curated list of resources, this course is your first step to becoming a Data Scientist. By the end of the course, you will have mastered techniques like EDA and Missing Value Treatment . Who Should Enroll: Professionals: Individuals looking to expand their skill set on data cleaning and preparation. Aspiring Students: For those setting out on their journey to become a data scientist\u00a0and making a mark in the tech world."
+    },
+    {
+        "title": "Exploring Stability.AI - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/exploring-stability-ai",
+        "content": "This course will give you a practical understanding of Stability.AI tools. By the end of the course, you will be able to deploy and customize SD WebUI, and use the Automatic1111 WebUI on RunPod GPU environments. You'll learn to install, set up, generate, and fine-tune SD WebUI settings, equipping you with the skills to harness Stability.AI's full potential for your projects. Who Should Enroll: Professionals: Individuals aiming to enhance their skill set and apply Stability.AI tools/Stable Diffusion in various fields. Aspiring Students: Those beginning their journey to mastering Generative AI tool deployment and customization, looking to make an impact in the evolving world of Generative AI"
+    },
+    {
+        "title": "Building a Text Classification Model with Natural Language Processing - Free Course",
+        "link": "https://courses.analyticsvidhya.com/courses/free-building-textclassification-natural-language-processing",
+        "content": "Gain practical insights into Natural Language Processing (NLP) with our comprehensive course. Learn to build NLP models using PyTorch, delve into classification models, and apply techniques like bag-of-words, count vectorizer and so on. Perfect for professionals seeking to enhance their skills and aspiring students entering the tech industry. Who Should Enroll: Professionals: Expand your skill set with NLP for real-world applications in diverse industries. Aspiring Students: Master text data analysis and kickstart your career in AI and NLP."
+    },
+    {
+        "title": "Getting Started with Large Language Models",
+        "link": "https://courses.analyticsvidhya.com/courses/getting-started-with-llms",
+        "content": "This course will help you gain a comprehensive understanding of Large Language Models (LLMs) and develop advanced natural language processing (NLP) applications using the PyTorch framework. With a carefully curated list of resources and exercises, this course is your guide to becoming an expert in LLMs. Master the techniques to build and fine-tune LLMs, and generate human-like text. Who Should Enroll: Professionals: Individuals looking to expand their skill set and leverage LLMs across different industries. Aspiring Students: For those setting out on their journey to master language data analysis and leave a mark in the tech world."
+    },
+    {
+        "title": "Introduction to Generative  AI",
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-generative-ai",
+        "content": "This course will provide you with a comprehensive understanding of generative AI, including text and image generation techniques. By the end of the course, you will be have an understanding of using generative AI tools to create diverse content. You'll learn how generative AI works, engage in practical exercises, and gain the skills to implement these techniques in real-world projects. Who Should Enroll: Professionals: Individuals looking to enhance their skills in generative AI and apply advanced techniques to create innovative solutions across various domains. Aspiring Students: Individuals eager to enter the field of generative AI and apply generative AI techniques to tackle complex problems and generate creative content across different fields."
+    },
+    {
+        "title": "A Comprehensive Learning Path for Deep Learning in 2023",
+        "link": "https://courses.analyticsvidhya.com/courses/a-comprehensive-learning-path-for-deep-learning-in-2023",
+        "content": "The course is ideal for beginners in the field of Deep Learning. Several features which make it exciting are: Beginner friendly course The course assumes no prerequisites and is meant for beginners Curated list of resources to follow All the necessary topics are covered in the course, in an orderly manner with links to relevant resources and hackathons."
+    },
+    {
+        "title": "A Comprehensive Learning Path to Become a Data Scientist in 2024",
+        "link": "https://courses.analyticsvidhya.com/courses/a-comprehensive-learning-path-to-become-a-data-scientist-in-twenty-twenty-four",
+        "content": "Where do I begin? Data science is such a huge field - where do you even start learning about Data Science? These are career-defining questions often asked by data science aspirants. There are a million resources out there to refer but the learning journey can be quite exhausting if you don\u2019t know where to start. Don\u2019t worry, we are here to help you take your first steps into the world of data science! Here\u2019s the learning path for people who want to become a data scientist in 2023. We have arranged and compiled all the best resources in a structured manner so that you have a unified resource to become a successful data scientist. Moreover, we have added the most in-demand skills for the year 2023 for data scientists including storytelling, model deployment, and much more along with exercises and assignments."
+    },
+    {
+        "title": "Certified AI & ML BlackBelt+ Program",
+        "link": "https://courses.analyticsvidhya.com/bundles/certified-ai-ml-blackbelt-plus",
+        "content": "What happens when you combine ALL of Analytics Vidhya\u2019s comprehensive courses, curated and designed by instructors with decades of data science experience? You get the AI & ML BlackBelt+ program! There are multiple elements that go into becoming an AI expert. Data Science, Machine Learning and Deep Learning are the core components you would need in our journey to break into the wonderful world of AI applications. AI & ML BlackBelt+ is a thoughtfully curated program designed for anyone wanting to learn data science, machine learning, deep learning in their quest to become an AI professional. It all starts here, so are you ready to take the ride? You will get access to ALL the courses Analytics Vidhya has curated and designed as part of AI & ML Blackbelt+. What are you waiting for? Start your AI journey today!"
+    },
+    {
+        "title": "Machine Learning Summer Training",
+        "link": "https://courses.analyticsvidhya.com/courses/machine-learning-summer-training",
+        "content": "If you are a college student and looking for summer training, then you are at the right place where Analytics Vidhya is providing its virtual training along with the mega hackathon for students all over the world to compete, win grand rewards and internship opportunities. Machine Learning Summer Training is an online program to build and enhance your programming and machine learning skills, led by the best industry experts and data science professionals. After completing this training you will be provided with a blockchain enabled certificate by Analytics Vidhya with lifetime validity. This is the perfect starting point to ignite your fledging machine learning career and take a HUGE step towards your dream data scientist role. If you haven't enrolled in the program already, Don't wait!"
+    },
+    {
+        "title": "Certified Business Analytics Program",
+        "link": "https://courses.analyticsvidhya.com/bundles/certified-business-analytics-program",
+        "content": "With increase in data generated across the globe, the demand for Business Analytics professionals is rising continuously . In short, aiming for a role in Business Analytics has never been a better career choice! Certified Business Analytics Program aims to provide you all the tools and techniques, along with hands on experience you need to succeed as a Business Analytics professional. This program covers tools like Excel, Tableau, SQL, Python and covers all the techniques like Statistics and Exploratory Data Analysis . The program also covers Predictive modeling and basics of Machine Learning . More importantly, the program helps you prepare your Resume, prepares you for Business Analytics Interviews and provides one on one mentorship during the program."
+    },
+    {
+        "title": "Certified Machine Learning Master's Program (MLMP)",
+        "link": "https://courses.analyticsvidhya.com/bundles/certified-machine-learning-master-s-program-mlmp",
+        "content": "Download Program Brochure"
+    },
+    {
+        "title": "Ace Data Science Interviews",
+        "link": "https://courses.analyticsvidhya.com/courses/ace-data-science-interviews",
+        "content": "Are you trying to get into data science roles but getting rejected by employers? Are you scared of getting into data science interviews? Or don't know what to expect in data science interviews? This is just the course you need. While you might know the tools and techniques in data science, clearing a data science interview might still prove very difficult. You need to show your problem solving skills and technical prowess in these data science interviews. This course has been created based on hundreds of interviews we have taken, companies we have helped in data science interviews and several data science experts in the industry. Key learnings and takeaways from \"Ace Data Science Interviews\" course: Understand different roles existing in data science ecosystem(e.g.Data Scientist, Data Engineers, Data Analyst etc.) Learn what skill sets required for each of these roles Understand different types of Interviews which happen in Data Science Industry Tips and tricks to Ace your Data Science Interviews How to build your digital presence including LinkedIn and GitHub profile Learn the process to create a professional experience for data science roles. Framework to solve Guesstimates and case studies used in data science interviews Downloadable Resources: Infographic for 7 step process to \"Ace Data Science Interviews\" e-book containing more than 240 interview questions from interviews in industry. Interview Questions on machine learning, statistics, Model building, Machine Learning production, SQL Checklist for your LinkedIn and GitHub profiles"
+    },
+    {
+        "title": "Writing Powerful Data Science Articles",
+        "link": "https://courses.analyticsvidhya.com/courses/writing-powerful-data-science-articles",
+        "content": "This free crash course on writing powerful data science articles is conducted over two sessions of 1-hour each. Here\u2019s the agenda for both sessions: Session 1: How to Write Powerful Data Science Articles This is where it all begins! The power of writing What should you write about? How to pick a topic your audience will like? The big question - HOW should you write an article that resonates with your audience? A quick demo of our writing platform (editor.analyticsvidhya.com) Session 2: Best Practices - Writing Articles that Grab your Reader\u2019s Attention This is where we bring it all together. Tips on how to improve your article\u2019s engagement Best practices for enhancing your article\u2019s readability How to increase your article\u2019s reach Examples, SEO best practices, tips and tricks to increase your article viewership"
+    },
+    {
+        "title": "Machine Learning Certification Course for Beginners",
+        "link": "https://courses.analyticsvidhya.com/courses/Machine-Learning-Certification-Course-for-Beginners",
+        "content": "Machine Learning is the science of teaching machines how to learn by themselves. Machine Learning is reshaping and revolutionizing the world and disrupting industries and job functions globally. Machine learning is so extensive that you probably use it numerous times a day without knowing it. From unlocking your mobile phones using your face to giving your attendance using a biometric machine, machine learning is being used in almost every stage. In this age of machine learning, every aspiring data scientist is expected to upskill themselves in machine learning techniques & tools and apply them to real-world business problems."
+    },
+    {
+        "title": "Top Data Science Projects for Analysts and Data Scientists",
+        "link": "https://courses.analyticsvidhya.com/courses/top-data-science-projects-for-analysts-and-data-scientists",
+        "content": "This is a very common question interviewers ask in data science interviews. We have conducted hundreds of these interviews for both data analyst and data scientist roles and this is quite often the jackpot question. This is especially true if you\u2019re a fresher or a relative newcomer to data science. Just doing courses or attaining certifications isn\u2019t good enough. Almost everyone we know holds certifications in various aspects of data science. It adds no value to your resume if you don\u2019t combine it with practical experience. And that\u2019s where open-source data science projects play such a key role!"
+    },
+    {
+        "title": "Machine Learning Starter Program",
+        "link": "https://courses.analyticsvidhya.com/bundles/machine-learning-starter-program",
+        "content": "Download Brochure"
+    },
+    {
+        "title": "Data Science Hacks, Tips and Tricks",
+        "link": "https://courses.analyticsvidhya.com/courses/data-science-hacks-tips-and-tricks",
+        "content": "Data Exploration Hacks - Do you know how to get a full report of your dataset in just 1 line of code? Explore the data like a pro. Understand and practically work on data with shorter lines of code. Python hacks, tips and tricks - Python is simple to understand language and is the go-to language to implement machine learning. Learn the \u2018pythonic\u2019 way to code in this course Data Visualization Tips and Tricks - Visualizing data in the right way can be the make-or-brake situation in your meeting with your seniors. To be able to tell a story through the use of different visualizations. In these visualization hacks, tips and tricks we explore different libraries and their different modules and how to implement them. Did you know you can make interactive plots using pandas dataframe in just one line of code? We\u2019ll see this data science hack in this course Data Preprocessing Hacks - Data preprocessing is a really important step before model building. Standardization, normalization, encoding categorical variables are just a few of these. You\u2019ll learn which functions to use and tuning which parameters would be the most suitable for you Jupyter Notebook hacks, tips and tricks - In jupyter notebook, you can write in multiple lines at the same time using multicursor, change the theme of your notebook, display multiple outputs for the same cell. These tricks and tips help you to focus on what\u2019s really important and that is data analysis and discards unnecessary hassle Other Data Science and Machine Learning Hacks - Hacks related to machine learning algorithms, hyperparameter tuning, evaluating your machine learning model. Using these hacks you\u2019ll be able to identify new methods to take your data science skills to the next level!"
+    },
+    {
+        "title": "Introduction to Business Analytics",
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-analytics",
+        "content": "Getting Started with Business Analytics What is Business Analytics? Why has it become so popular recently? What are some of the popular applications of Business Analytics? And more importantly, how can you get started with learning Business Analytics from scratch? With growth in digitisation, Business Analytics is ubiquitous right now. Organizations are splurging to integrate data science solutions in their daily processes. This is where they need Business Analysts. Why pursue Business Analytics: Data is ubiquitous! Organizations need people who can use Business Analytics tools and techniques to make sense of this data. It is one of the hottest field in the industry right now There are so many Business Analytics tools and techniques which can be applied to solve business problems. Keep learning, keep growing! The potential of Business Analytics is limitless - spanning across industries, roles and functions"
+    },
+    {
+        "title": "Introduction to PyTorch for Deep Learning",
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-pytorch-for-deeplearning",
+        "content": "Welcome to the world of PyTorch - a deep learning framework that has changed and re-imagined the way we build deep learning models. PyTorch was recently voted as the favorite deep learning framework among researchers. It has left TensorFlow behind and continues to be the deep learning framework of choice for many experts and practitioners. PyTorch is super flexible and is quite easy to grasp, even for deep learning beginners. If you work on deep learning and computer vision projects, you\u2019ll love working with PyTorch."
+    },
+    {
+        "title": "Introductory Data Science for Business Managers",
+        "link": "https://courses.analyticsvidhya.com/bundles/introductory-data-science-for-business-managers",
+        "content": "The data science revolution is well and truly disrupting multiple and diverse industries. It has become the centerpiece of strategic decision making for organizations. Are you prepared to enable it for your business and your current role? There is a serious shortage of decision-makers in the data science universe. While projects are springing up everywhere, the managers and leaders required to guide and mentor data science teams are rare to find. Data Science for Managers is a thoughtfully curated program designed especially for decision-makers. Whether you\u2019re a manager, team leader, CxO or entrepreneur, you NEED to be data science educated. And this is the perfect program to get you there. You will get access to three of the most comprehensive courses in this certified program. Enable yourself, and your business, to be ready for the Artificial Intelligence revolution! Key Takeaways from Certified Program: Introductory Data Science for Business Managers Artificial Intelligence and Machine Learning for Business Leaders: The ultimate Artificial Intelligence & Machine Learning course for CxOs, Managers, Team Leaders and Entrepreneurs Introduction to Data Science: Every data science manager and leader should have a good hold on core data science techniques. This course will teach you the basics of the most popular data science language \u2013 Python, the basics of core statistics, and introduce you to the essential machine learning algorithms used in businesses today Tableau 2.0 - Master Tableau from Scratch: Convert your data into actionable insights, create dashboards to impress your clients, and learn Tableau tips, tricks, and best practices for your analytics, business intelligence or data science role! Why you should take this certified program? Upskill yourself for the AI Revolution: Artificial Intelligence has already started making a huge impact in various industries, roles and functions. The time to upskill yourself and become familiar with artificial intelligence and machine learning is NOW. This comprehensive program will enable you to do just that. Easy to understand content: Understanding data science concepts can be difficult. Especially if you\u2019re a mid or late-career transitioner coming from a non-technical background. That\u2019s why all the courses in this program have been curated and designed for people from all walks of life. We don\u2019t assume anything \u2013 this is data science from scratch. Experienced Instructors: All the material in this program was created by instructors who bring immense industry experience of data science. Combined among us, we have more than two decades of teaching experience. Industry Relevant: All the courses in this program have been vetted by industry experts. This ensures relevance in the industry and enables you with the content which matters most. Real life problems: All projects in the program are modelled on real-world scenarios. We mean it when we say \u201cindustry relevant\u201d! Prerequisites of Certified Program: Introductory Data Science for Business Managers This program requires no past knowledge about Data Science or any tool."
+    },
+    {
+        "title": "Introduction to Natural Language Processing",
+        "link": "https://courses.analyticsvidhya.com/courses/Intro-to-NLP",
+        "content": "Natural Language Processing is the art of extracting information from unstructured text. Learn basics of Natural Language Processing, Regular Expressions & text sentiment analysis using machine learning in this course."
+    },
+    {
+        "title": "Introduction to Python",
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-data-science",
+        "content": "Do you want to enter the field of Data Science? Are you intimidated by the coding you would need to learn? Are you looking to learn Python to switch to a data science career? You have come to just the right place! Most industry experts recommend starting your Data Science journey with Python Across biggest companies and startups, Python is the most used language for Data Science and Machine Learning Projects Stackoverflow survey for 2019 had Python outrank Java in the list of most loved languages Python is a very versatile language since it has a wide array of functionalities already available. The sheer range of functionalities might sound too exhaustive and complicated, you don\u2019t need to be well-versed with them all. Most data scientists have a few go-to libraries for their daily tasks like: for performing data cleaning and analysis - pandas for basic statistical tools \u2013 numpy, scipy for data visualization \u2013 matplotlib, seaborn"
+    },
+    {
+        "title": "Loan Prediction Practice Problem (Using Python)",
+        "link": "https://courses.analyticsvidhya.com/courses/loan-prediction-practice-problem-using-python",
+        "content": "This course is designed for people who want to solve binary classification problems. Classification is a skill every Data Scientist should be well versed in. In this course, we are solving a real life case study of Dream Housing Finance. The company deals in all home loans. They have a presence across all urban, semi-urban and rural areas. Customers first apply for a home loan after that company validates the customer's eligibility. The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling online application form. By the end of the course, you will have a solid understanding of Classification problem and Various approaches to solve the probem"
+    },
+    {
+        "title": "Big Mart Sales Prediction Using R",
+        "link": "https://courses.analyticsvidhya.com/courses/big-mart-sales-prediction-using-r",
+        "content": "Sales prediction is a very common real life problem that each company faces at least once in its life time. If done correctly, it can have a significant impact on the success and performance of that company. In this course you will be working on the Big Mart Sales Prediction Challenge. The course will equip you with the skills and techniques required to solve regression problems in R. You will be provided with sufficient theory and practice material to hone your predictive modeling skills."
+    },
+    {
+        "title": "Twitter Sentiment Analysis",
+        "link": "https://courses.analyticsvidhya.com/courses/twitter-sentiment-analysis",
+        "content": "What is Sentiment Analysis? Sentiment Analysis or Opinion Mining is a technique used to analyse the emotion in a text. We can extract the attitude or the opinion of a piece of text and get insights on it. In the context of machine learning, you can think of Sentiment Analysis as a Classification problem where the text can either have a positive sentiment, a negative sentiment or a neutral one. What are the applications of Sentiment Analysis in the industry? In the age of social media, it is extremely common to comment about a movie you liked or a book you didn\u2019t like or a product you bought was not up to the mark. Therefore, a lot of companies use sentiment analysis for their products since it provides direct feedback of the customer\u2019s opinion. It is also important to detect and remove hateful content from social media and companies like Twitter, Facebook, etc. extensively use sentiment analysis on a daily basis. On what kind of projects would I implement sentiment analysis? There are a wide variety of projects where you can use Sentiment Analysis. Here are a couple of popular use cases: Sentiment Analysis can not only be used for customer reviews or product feedback, but in other domains as well. Analyzing the sentiments on social media on the US Elections, for example, gives useful insights on which candidates are favoured by the public and which are not. For other interesting problems involving sentiment/emotion detection, you can visit: https://datahack.analyticsvidhya.com/contest/all/ What is the range of sentiments that can be observed and analysed? In the earlier days of\u00a0Natural language processing\u00a0and Sentiment Analysis, the sentiments could hold only 2 or 3 values: Positive or Negative, and Positive, Neutral or Negative. However, with the advent of deep learning, we can now recognize the subtle emotions in a text as well. This has made tasks like Sarcasm detection, fake news detection etc. popular in research areas of Natural language processing Can I add this project to my resume and use it in my Interview? Sentiment Analysis is one of the most popular applications of Machine Learning and Classification in Natural language processing We also encourage you to take up more diverse datasets and apply sentiment analysis on them. Sentiment Analysis is also one of the first projects you would learn in your Natural language processing journey and as such is commonly asked in interviews."
+    },
+    {
+        "title": "Pandas for Data Analysis in Python",
+        "link": "https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python",
+        "content": "What is Pandas? How can I install Pandas in Python? Where is Pandas used in data science? How difficult is it to learn Pandas? What is a Pandas dataframe? Do I need to know Python to learn Pandas? What kind of data analysis can I perform using Pandas? Will Pandas help me become a better data scientist? What kind of data formats can I import using Pandas? If you\u2019ve asked any of these questions before or are looking to learn Pandas from scratch, you\u2019ve come to the right place."
+    },
+    {
+        "title": "Support Vector Machine (SVM) in Python and R",
+        "link": "https://courses.analyticsvidhya.com/courses/support-vector-machine-svm-in-python-and-r",
+        "content": "Support Vector Machines (SVM) can be a tricky topic to learn if you aren\u2019t asking the right questions. Here are a few key questions about SVM you should know: What is a Support Vector Machine (SVM)? Is SVM a must-know algorithm in machine learning? What kind of machine learning problems can I solve using SVM? Can I perform both classification and regression using SVM? What do I need to know before learning SVM? What is a SVM classifier? Can I rely on the Support Vector Machine algorithm in a Kaggle or DataHack hackathon? How difficult is it to learn SVM for a beginner in machine learning? What is a SVM kernel? If you are not sure about any of the above questions, it\u2019s the right time to enroll in this free course and start your SVM learning!"
+    },
+    {
+        "title": "Evaluation Metrics for Machine Learning Models",
+        "link": "https://courses.analyticsvidhya.com/courses/evaluation-metrics-for-machine-learning-models",
+        "content": "What is an evaluation metric? What are the different types of evaluation metrics? Do I really need to master evaluation metrics to understand machine learning? What kind of evaluation metrics questions can I expect in an interview? How do evaluation metrics help me improve my hackathon rankings? Can I use the same evaluation metrics for regression as well as classification problems? Is cross validation an evaluation metric?"
+    },
+    {
+        "title": "Fundamentals of Regression Analysis",
+        "link": "https://courses.analyticsvidhya.com/courses/Fundamentals-of-Regression-Analysis",
+        "content": "What is Regression Analysis? When should you use Regression? How many types of Regressions do we have? How much mathematical knowledge is required to understand regression? Ridge vs. Lasso Regression - what\u2019s the difference? Which types of problems can be solved using regression? What are the major challenges faced by regression techniques? Is Regression Analysis relevant in the industry? Which programming language works best for regression? What kind of machine learning projects can you do using regression techniques?"
+    },
+    {
+        "title": "Getting Started with scikit-learn (sklearn) for Machine Learning",
+        "link": "https://courses.analyticsvidhya.com/courses/get-started-with-scikit-learn-sklearn",
+        "content": "What is scikit-learn or sklearn? What\u2019s the difference between scikit-learn and sklearn? How do I install sklearn? Do I need to know machine learning to use sklearn? What kind of machine learning models can I build using sklearn? How much programming knowledge do I need to have to master sklearn? Which programming language should I know for sklearn? What are the different functions or areas that sklearn covers? Which machine learning focused organization are using sklearn? What kind of projects can I work on using sklearn? This free course by Analytics Vidhya will teach you all you need to get started with scikit-learn for machine learning. We will go through the various components of sklearn, how to use sklearn in Python, and of course, we will build machine learning models like linear regression, logistic regression and decision tree using sklearn!"
+    },
+    {
+        "title": "Convolutional Neural Networks (CNN) from Scratch",
+        "link": "https://courses.analyticsvidhya.com/courses/convolutional-neural-networks-cnn-from-scratch",
+        "content": "Convolutional Neural Networks, or CNN as they\u2019re popularly called, are the go-to deep learning architecture for computer vision tasks, such as object detection, image segmentation, facial recognition, among others. CNNs have even been extended to the field of video analysis! If you are picking one deep learning architecture to learn and are not sure where to start, you should go for convolutional neural networks. Deep learning enthusiasts and experts with CNN knowledge are being widely sourced in the industry. It\u2019s your time to use this CNN skillset and shine!"
+    },
+    {
+        "title": "Dimensionality Reduction for Machine Learning",
+        "link": "https://courses.analyticsvidhya.com/courses/dimensionality-reduction-for-machine-learning",
+        "content": "Enroll for free"
+    },
+    {
+        "title": "K-Nearest Neighbors (KNN) Algorithm in Python and R",
+        "link": "https://courses.analyticsvidhya.com/courses/K-Nearest-Neighbors-KNN-Algorithm",
+        "content": "What is the K-Nearest Neighbor (KNN) algorithm? Why should you learn KNN in machine learning? When should you use KNN? Can I use KNN for both classification and regression problems? What kind of projects can you do using KNN? Do I need to learn Python or R (or any other programming language) to use KNN? Will machine learning project interviews ask you about KNN? What does the\u201dK\u201d in KNN stand for? How to calculate the distance between points in KNN? This free course by Analytics Vidhya will help you understand what K-Nearest Neighbor (KNN) is, how the KNN algorithm works, and where KNN fits in the machine learning umbrella. We will also showcase how to implement KNN in Python and R. There\u2019s a lot to learn so enroll and get started!"
+    },
+    {
+        "title": "Ensemble Learning and Ensemble Learning Techniques",
+        "link": "https://courses.analyticsvidhya.com/courses/ensemble-learning-and-ensemble-learning-techniques",
+        "content": "- What is Ensemble Learning? - Why should you learn Ensemble Learning? - What are the different types of Ensemble Learning techniques? - Can you use Ensemble Learning for both Regression and Classification problems? - What are the most popular Ensemble Learning techniques? - What\u2019s the intuition behind Bagging in Ensemble Learning? - Similarly, what\u2019s the idea behind Boosting in Ensemble Learning? - What\u2019s the difference between Bagging and Boosting? - Do these Ensemble Learning techniques improve our machine learning model? - Will learning Ensemble Learning help me crack machine learning interviews and win hackathons? This course by Analytics Vidhya will introduce you to the concept of ensemble learning and understand the machine learning algorithms that use Ensemble Learning. To cement your understanding of this diverse topic, we will explain the advanced Ensemble Learning techniques in Python using a hands-on case study on a real-life problem!"
+    },
+    {
+        "title": "Linear Programming for Data Science Professionals",
+        "link": "https://courses.analyticsvidhya.com/courses/linear-programming",
+        "content": "What is linear programming? Why should you learn linear programming? What are the different linear programming terminologies? What programming languages should you know to apply linear programming? Can I solve a linear programming problem using Microsoft Excel? What kind of projects can you do using linear programming? Interview questions - what to expect around linear programming? What are the applications of linear programming in real-life? This course explains the concept of linear programming in simple English. We have kept the content as simple as possible so even beginners will be able to quickly pick up how linear programming works. You will, of course, also learn how to solve linear programming problems! Who is the Introduction to Linear Programming for Data Science Professionals Course for? This course is for anyone who: Wants to learn about linear programming Wants to understand how linear programming works and how to solve linear programming problems Isn\u2019t a programmer but is curious how to work on linear programming problems (MX Excel!) Wants to master a niche branch of data science to gain a competitive advantage over their peers Is looking to solve optimization problems using linear programming What do you need to get started with the Introduction to Linear Programming for Data Science Professionals course? Here\u2019s what you\u2019ll need: A working laptop/desktop with 4 GB RAM A working Internet connection Working knowledge of Microsoft Excel Optional - Basic knowledge of R That\u2019s it! You\u2019re all set to learn linear programming and solve optimization problems!"
+    },
+    {
+        "title": "Naive Bayes from Scratch",
+        "link": "https://courses.analyticsvidhya.com/courses/naive-bayes",
+        "content": "Naive Bayes ranks in the top echelons of the machine learning algorithms pantheon. It is a popular and widely used machine learning algorithm and is often the go-to technique when dealing with classification problems. The beauty of Naive Bayes lies in it\u2019s incredible speed. You\u2019ll soon see how fast the Naive Bayes algorithm works as compared to other classification algorithms. It works on the Bayes theorem of probability to predict the class of unknown datasets. You\u2019ll learn all about this inside the course! So whether you\u2019re trying to solve a classic HR analytics problem like predicting who gets promoted, or you\u2019re aiming to predict loan default - the Naive Bayes algorithm will get you on your way."
+    },
+    {
+        "title": "Learn Swift for Data Science",
+        "link": "https://courses.analyticsvidhya.com/courses/learn-swift-for-data-science",
+        "content": "Get started now"
+    },
+    {
+        "title": "Introduction to Web Scraping using Python",
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-web-scraping",
+        "content": "We\u2019re sure you\u2019ve asked these questions before. Even if you haven\u2019t, you should start learning how these web scraping questions should be answered: What is web scraping? Why should you learn web scraping? Why Python for web scraping? What are the different Python libraries for performing web scraping? Can I use R for web scraping? What kind of projects can I take up after learning web scraping? Are web scraping concepts asked in data science/machine learning interviews? You\u2019ll learn about these concepts inside the course and we have even provided a high-level overview of these questions after the course curriculum below. Who is the Introduction to Web Scraping using Python Course for? This course is for anyone who: Wants to learn the art of web scraping using Python Is looking to collect or gather more data for their data science or machine learning project Wants to add a new and crucial skill to their existing data science portfolio Is curious about Python programming What do you need to get started with the Introduction to Web Scraping using Python course? Here\u2019s what you\u2019ll need: A working laptop/desktop with 4 GB RAM A working Internet connection Basic knowledge of Python. You can take this free Python course if you need a refresher That\u2019s it! You\u2019re all set to perform web scraping on your machine!"
+    },
+    {
+        "title": "Tableau for Beginners",
+        "link": "https://courses.analyticsvidhya.com/courses/tableau-for-beginners",
+        "content": "Tableau is the gold standard in business intelligence, analytics and data visualization tools. Tableau Desktop (and now Tableau Public) have transformed the way we interact with visualizations and tell data stories to our clients, stakeholders, and to non-technical audiences around the world. Tableau has been recognized as a Leader in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms for 8 straight years. Here\u2019s Gartner\u2019s most recent ranking in 2020: In this Tableau for Beginners course, you will learn everything you need to get started with this wonderful visualization and business intelligence tool. You\u2019ll be able to build charts like bar charts, line charts (for working with time series data), pie charts, and even get the hang of geospatial analysis using map visualizations in Tableau! Note: If you\u2019re looking to build and master dashboards and storyboards in Tableau, make sure you check out the popular \u2018 Mastering Tableau from Scratch: Become a Data Visualization Rockstar \u2019 course!"
+    },
+    {
+        "title": "Getting Started with Neural Networks",
+        "link": "https://courses.analyticsvidhya.com/courses/getting-started-with-neural-networks",
+        "content": "Introduction to Neural Networks What is a neural network? How does it work? What does a neural network do? Learn neural networks for free in this course and get your neural network questions answered, including applications of neural networks in deep learning. Learn how neural networks work in deep learning Do you want to acquire a super power? How about learning neural networks? Neural networks are at the heart of the deep learning revolution that\u2019s happening around us right now. Neural networks are the present and the future. The different neural network architectures like convolutional neural networks (CNN), recurrent neural networks (RNN), and others have altered the deep learning landscape. But as a beginner in this field, you\u2019ll have a ton of questions: What is a neural network? Why do we need to learn neural networks? How popular are neural networks? What are the advantages of neural networks? What kind of challenges you could face when applying neural networks? What exactly should you learn about neural networks? What are the core concepts that make up neural networks? What are the different types of neural networks in deep learning? Do you need to know programming to build a neural network? Which programming language is best for building neural networks? Python or R? What are the different applications of neural networks? What kind of problems or projects can you solve using neural networks? From classifying images and translating languages to building a self-driving car, neural networks are powering the world around us. Thanks to the idea of neural networks like CNN and RNN, deep learning has penetrated into multiple and diverse industries, and it continues to break new ground on an almost weekly basis!"
+    },
+    {
+        "title": "Introduction to AI & ML",
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-ai-ml",
+        "content": "Analytics Vidhya\u2019s \u2018Introduction to AI and ML\u2019 course, curated and delivered by experienced instructors with decades of industry experience between them, will help you understand the answers to these pressing questions. Artificial Intelligence and Machine Learning have become the centerpiece of strategic decision making for organizations. They are disrupting the way industries and roles function - from sales and marketing to finance and HR, companies are betting big on AI and ML to give them a competitive edge. And this, of course, directly translates to their hiring. Thousands of vacancies are open as organizations scour the world for AI and ML talent. There hasn\u2019t been a better time to get into this field!"
+    },
+    {
+        "title": "Winning Data Science Hackathons - Learn from Elite Data Scientists",
+        "link": "https://courses.analyticsvidhya.com/courses/winning-data-science-hackathons-learn-from-elite-data-scientists",
+        "content": "A working knowledge of basic machine learning algorithms will help you understand the talks covered in this course."
+    }
+]
