@@ -1,5 +1,10 @@
 [
     {
+        "title": "Learning Autonomous Driving Behaviors with LLMs & RL",
+        "link": "https://courses.analyticsvidhya.com/courses/learning-autonomous-driving-behaviors-with-llms-and-rl",
+        "content": "This course dives into the development of autonomous driving behaviors using Reinforcement Learning (RL) and Large Language Models (LLMs). You\u2019ll explore how RL agents are trained to navigate complex, real-world environments while making safe, human-like driving decisions. The course tackles key challenges such as designing effective reward systems, ensuring safety in high-speed driving scenarios, and improving the interpretability of AI decisions. Through practical projects, you will design RL agents using techniques like Deep Q-Networks (DQN), experience replay, and integrate LLMs to enhance decision-making."
+    },
+    {
         "title": "GenAI Applied to Quantitative Finance: For Control Implementation",
         "link": "https://courses.analyticsvidhya.com/courses/genai-applied-to-quantitative-finance-for-control-implementation",
         "content": "This course explores the application of Generative AI in quantitative finance, focusing on building sustainable trading algorithms through keyword extraction, sentiment analysis, and time-series forecasting. Learn to predict commodity prices, such as gold, by integrating data from financial news sources, leveraging sentiment analysis, and optimizing models for robust trading signals."

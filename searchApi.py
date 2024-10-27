@@ -122,7 +122,7 @@ def scrape():
     with open("courses_data.json", "w") as json_file:
         json.dump(courses_data, json_file, indent=4)
 
-    return json_file;
+    return jsonify({"status": "Courses data scraped successfully", "num_courses": len(courses_data)})
 
 
 # Load courses from JSON file
@@ -184,7 +184,6 @@ def search():
     ]
 
     return jsonify(response)
-
 
 if __name__ == '__main__':
     port1 = int(os.environ.get('PORT', 8000))  # Get the PORT environment variable or use 8000 as default
